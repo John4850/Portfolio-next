@@ -7,7 +7,7 @@ interface Props {
 	theme: string
 }
 
-const BFFA_ICON = <BffaIcon height={"1rem"} width={"1rem"} />
+const BFFA_ICON = <BffaIcon className={styles.icon} />
 const BFFA_LINK = (
 	<a href="https://bffa.org/" target="_blank" title="Better Future for All">
 		{"bffa.org"}

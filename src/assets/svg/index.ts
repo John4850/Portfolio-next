@@ -1,8 +1,8 @@
-import BffaIcon from "./bffa-icon.svg"
+import BffaIcon from "./bffaIcon.svg"
 import EmpathetechBlack from "./empathetech.svg"
-import EmpathetechWhite from "./empathetech-white.svg"
-import GithubBlack from "./github-mark.svg"
-import GithubWhite from "./github-mark-white.svg"
+import EmpathetechWhite from "./empathetechWhite.svg"
+import GithubBlack from "./github.svg"
+import GithubWhite from "./githubWhite.svg"
 export {
 	BffaIcon,
 	EmpathetechBlack,

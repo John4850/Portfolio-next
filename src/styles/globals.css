@@ -14,10 +14,11 @@ body {
 
 body {
 	color: var(--color-black);
-	background: linear-gradient(
-		var(--color-bright-purple),
-		var(--color-mauve),
-		var(--color-sunset)
+	background: radial-gradient(
+		circle at bottom center,
+		var(--color-dark-blue),
+		var(--color-blue),
+		var(--color-deep-purple)
 	);
 	padding: 90px var(--size-m) var(--size-m);
 	height: 100%;

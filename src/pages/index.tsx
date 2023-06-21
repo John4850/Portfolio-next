@@ -1,5 +1,6 @@
 import { AboutMeComponent, HomePageHeader } from "@/components"
 import NextHomePage from "./nextHomePage"
+import { EmpathetechBlack } from "@/assets/svg"
 
 const TAGLINE = "Human Centered Tech Solutions"
 
@@ -12,7 +13,6 @@ export default function Home() {
 			<link rel="icon" href="/favicon.ico" />
 			<HomePageHeader subTitle={TAGLINE} />
 			<AboutMeComponent />
-			<NextHomePage></NextHomePage>
 		</>
 	)
 }
