@@ -15,10 +15,11 @@ body {
 body {
 	color: var(--color-black);
 	background: radial-gradient(
-		circle at bottom center,
+		circle at top right,
+		var(--color-black),
 		var(--color-dark-blue),
-		var(--color-blue),
-		var(--color-deep-purple)
+		var(--color-dark-purple),
+		var(--color-purple)
 	);
 	padding: 90px var(--size-m) var(--size-m);
 	height: 100%;

@@ -1,6 +1,6 @@
 :root {
 	/* colors */
-	--color-dark-blue: #302653;
+	--color-dark-blue: #000064;
 	--color-blue: #0000ff;
 	--color-aqua: #2a9d8f;
 	--color-yellow: #ffac32;
@@ -9,6 +9,8 @@
 	--color-pale-pink: #ff8f8f;
 	--color-barbie: #ff3186;
 	--color-bright-purple: #9973d3;
+	--color-purple:#640064;
+	--color-dark-purple:#32004b;
 	--color-deep-purple: #642d9b;
 	--color-mauve: #b1a1a5;
 	--color-white: #fff;
