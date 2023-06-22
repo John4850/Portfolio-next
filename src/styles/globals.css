@@ -13,7 +13,7 @@ body {
 }
 
 body {
-	color: var(--color-black);
+	color: var(--color-white);
 	background: radial-gradient(
 		circle at top right,
 		var(--color-black),

@@ -19,12 +19,12 @@ const pages: PageType[] = [
 		name: HOME_PAGE_NAME,
 	},
 	{
-		path: NASA_PAGE_PATH,
-		name: NASA_PAGE_NAME,
-	},
-	{
 		path: PROJECTS_PAGE_PATH,
 		name: PROJECTS_PAGE_NAME,
+	},
+  {
+		path: NASA_PAGE_PATH,
+		name: NASA_PAGE_NAME,
 	},
 ]
 

@@ -19,15 +19,15 @@
 	padding: var(--size-s);
 	color: var(--color-white);
 	font-size: var(--size-s);
-	border-bottom: 4px solid var(--color-deep-purple);
+	border-bottom: 4px solid var(--color-purple);
 }
 
 .activeLink {
-	border-bottom: 4px solid var(--color-yellow);
+	border-bottom: 4px solid var(--color-deep-purple);
 }
 
 .link:hover {
-	border-bottom: 4px solid var(--color-white);
+	border-bottom: 4px solid var(--color-bright-purple);
 }
 
 @media screen and (max-width: 550px) {

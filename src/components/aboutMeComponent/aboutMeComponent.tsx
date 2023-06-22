@@ -57,7 +57,7 @@ export const AboutMeComponent: React.FC = (theme) => {
     <>
       <div className={styles.aboutMe}>
         <h2 className={""}>{"About Me"}</h2>
-        <JohnAndZuko/>
+        <JohnAndZuko />
         <ul className="about-me-list">
           {DESCRIPTION_TEXT}
         </ul>
