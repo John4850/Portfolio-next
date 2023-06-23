@@ -1,4 +1,18 @@
+.aboutMe {
+	display: flex;
+	flex-direction: column;
+}
+
+.list {
+	list-style-position: outside;
+	list-style: none;
+}
+
 .icon {
-  height: 1em;
-  width: 1em;
+	height: 1em;
+	width: 1em;
+}
+
+.title {
+	align-self: center;
 }

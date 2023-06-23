@@ -22,7 +22,7 @@ const pages: PageType[] = [
 		path: PROJECTS_PAGE_PATH,
 		name: PROJECTS_PAGE_NAME,
 	},
-  {
+	{
 		path: NASA_PAGE_PATH,
 		name: NASA_PAGE_NAME,
 	},

@@ -1,0 +1,9 @@
+.frame {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.picture {
+	max-width: 80wv;
+	height: auto;
+}

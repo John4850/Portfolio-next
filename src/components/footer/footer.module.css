@@ -1,12 +1,12 @@
 .footer {
-  display: flex;
+	display: flex;
 	justify-content: center;
 	align-items: center;
-  padding: var(--size-m);
+	padding: var(--size-m);
 }
 
 .icon {
-  display: block;
-  height: 1rem;
-  width: 1rem;
+	display: block;
+	height: 1rem;
+	width: 1rem;
 }

@@ -30,4 +30,12 @@ module.exports = {
 		return config
 	},
 	reactStrictMode: true,
+	images: {
+		remotePatterns: [
+			{
+				protocol: "https",
+				hostname: "apod.nasa.gov",
+			},
+		],
+	},
 }
