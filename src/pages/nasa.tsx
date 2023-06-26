@@ -2,7 +2,7 @@ import Head from "next/head"
 import { IPictureOfTheDay } from "../models/models"
 import { NasaComponent } from "@/components"
 import { useState } from "react"
-import usePictureOfTheDay from "./api/nasaQuery"
+import usePictureOfTheDay from "../hooks/nasaQuery"
 
 export default function Nasa() {
 	//Fetches NASA's Picture of the Day

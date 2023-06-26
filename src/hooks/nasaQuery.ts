@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import { useQuery } from "@tanstack/react-query"
-import { IPictureOfTheDay } from "../../models/models"
+import { IPictureOfTheDay } from "../models/models"
 
 interface Props {
 	setPictureOfTheDay: React.Dispatch<

@@ -21,7 +21,6 @@ export const Footer: React.FC = () => {
 	return (
 		<>
 			<footer className={styles.footer}>
-				{" "}
 				<small>&copy; {"Copyright 2023, John Nelson "}</small>
 				{GITHUB_LINK}
 			</footer>

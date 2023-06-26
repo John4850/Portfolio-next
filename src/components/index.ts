@@ -1,4 +1,5 @@
-export { AboutMeComponent } from "./aboutMeComponent/aboutMeComponent"
-export { HomePageHeader } from "./homePageHeader/homePageHeader"
+export { AboutMeComponent } from "./aboutMeComponent/AboutMeComponent"
+export { ProjectNavigation } from "./projectNavigation/ProjectNavigation"
+export { HomePageHeader } from "./homePageHeader/HomePageHeader"
 export { Layout } from "./layout/Layout"
 export { NasaComponent } from "./nasaComponent/NasaComponent"
